@@ -13,10 +13,10 @@ This repository contains a buch of references, tutorials, courses, packages, too
 
 ## Packages
 
-- [Plots](https://github.com/JuliaPlots/Plots.jl). Dibujo de gráficas con distintas librerías gráficas.
-- [SymPy](https://github.com/jverzani/SymPy.jl). Cálculo simbólico.
-- [Graphs](https://github.com/JuliaAttic/OldGraphs.jl). Creación y análsisi de grafos.
-- [GraphPlot](https://github.com/JuliaGraphs/GraphPlot.jl). Dibujo de grafos.
+- [Plots](https://github.com/JuliaPlots/Plots.jl). Graphics with different libraries.
+- [SymPy](https://github.com/jverzani/SymPy.jl). Symbolic calculus.
+- [Graphs](https://github.com/JuliaAttic/OldGraphs.jl). Graph management and analysis.
+- [GraphPlot](https://github.com/JuliaGraphs/GraphPlot.jl). Graph plots.
 
 - [Listado de paquetes más usados y maduros](https://github.com/svaksha/Julia.jl)
 
